@@ -8,7 +8,7 @@ import static input.InputUtils.doubleInput;
 
  You also need to be able to swim at least 75 meters when you make a water landing on return to earth.
 
- Write a program to ask the user questions about their height and swimming ability,
+ // Write a program to ask the user questions about their height and swimming ability,
  and then use conditional statements to determine if they have potential as a NASA astronaut.
 
  There are many ways of doing this too - once you've written and tested a solution,

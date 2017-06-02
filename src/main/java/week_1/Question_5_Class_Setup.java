@@ -21,7 +21,7 @@ package week_1;
         Set this boolean to true once you've completed this
     */
 
-    public boolean haveDoneReading = false;
+    public boolean haveDoneReading = true;
 
 
 
@@ -30,7 +30,7 @@ package week_1;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter1 = "";
+    public String mostConfusingPartOfChapter1 = "asdfghjfdsafgfdsafghd";
 
 
 
@@ -39,7 +39,7 @@ package week_1;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter2 = "";
+    public String mostConfusingPartOfChapter2 = "sadghjdsafghjfds";
 
 
 
