@@ -44,7 +44,9 @@ public class Question_2_Windows_10_Install {
         // Return false if the computer can't be upgraded.
 
         // TODO remove this line, and replace with your own code.
-        return false;
+
+        return
+//        return false;
 
     }
 }
