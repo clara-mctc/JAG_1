@@ -37,6 +37,7 @@ public class Question_3_NASA_Astronauts {
         // TODO check the height, and swim distance.
         // return a boolean value representing whether the user meets these qualifications
 
+        return (height >= 58 && height <= 76 && swimDistance >= 75);
         // TODO remove this line and replace with your own code
 
         return false;
