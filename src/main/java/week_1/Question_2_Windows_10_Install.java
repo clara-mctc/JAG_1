@@ -45,7 +45,7 @@ public class Question_2_Windows_10_Install {
 
         // TODO remove this line, and replace with your own code.
 
-        return
+        return (currentOS.equals("Windows 7" || currentOS.equals("Windows 8") && processorSpeed >=1 && ram >= 2
 //        return false;
 
     }

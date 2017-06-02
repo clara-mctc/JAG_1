@@ -52,12 +52,13 @@ public class Question_4_Mail_Prices {
         * Use the machinableLetterPrice and nonMachinableSurcharge variables declared above.
         */
 
+        if (isRectangle && isFlat) { return machinableLetterPrice; }
+
+        return machinableLetterPrice + nonMachinableSurcharge;
+
         //TODO delete this line and replace with your own code
-        return 0;   // This is the wrong answer, but Java requires us to return something.
+        //return 0;   // This is the wrong answer, but Java requires us to return something.
 
     }
 
 }
-
-
-

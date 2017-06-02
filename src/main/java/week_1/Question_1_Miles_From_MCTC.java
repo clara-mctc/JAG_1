@@ -34,8 +34,12 @@ public class Question_1_Miles_From_MCTC {
         // TODO Use if - else if - else statements to return the correct String
 
         // TODO delete this line and replace with your code.
-       return null;
-
+       if (miles > 10) {
+         return "You live more than 10 miles from MCTC";
+       } else if (miles == 10) {
+         return "You live exactly 10 miles from MCTC";
+       }
+       return "You live less than 10 miles from MCTC";
     }
 
 
