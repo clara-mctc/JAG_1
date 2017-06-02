@@ -35,11 +35,11 @@ public class Question_1_Miles_From_MCTC {
 
         // TODO delete this line and replace with your code.
        if (miles > 10) {
-         return "You live more than 10 miles from MCTC";
+         return "dfghdsafgh";
        } else if (miles == 10) {
-         return "You live exactly 10 miles from MCTC";
+         return "sdfsdfsdf";
        }
-       return "You live less than 10 miles from MCTC";
+       return "You DFGDFGDFGDFGDFGDFGDFG";
     }
 
 
